@@ -1,0 +1,6 @@
+formula,start_x,end_x
+x**3,0,1
+exp(x),1,2
+k,2,3
+x**2,3,4
+sin(x),4,5
